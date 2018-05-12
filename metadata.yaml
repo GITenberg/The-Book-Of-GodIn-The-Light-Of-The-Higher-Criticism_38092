@@ -1,0 +1,34 @@
+_repo: The-Book-Of-GodIn-The-Light-Of-The-Higher-Criticism_38092
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Foote, G. W. (George William)
+    alias: Foote, George William
+    birthdate: 1850
+    deathdate: 1915
+    gutenberg_agent_id: '2333'
+    url: http://www.gutenberg.org/2009/agents/2333
+    wikipedia: http://en.wikipedia.org/wiki/George_William_Foote
+description: ''
+gutenberg_issued: '2011-11-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38092'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Farrar, F. W. (Frederic William), 1831-1903. New apology'
+- !lcsh 'Bible -- Criticism, interpretation, etc.'
+- !lcc 'BL'
+tableOfContents: Introduction -- The Bible canon -- The Bible and science -- Miracles
+  and witchcraft -- The Bible and freethought -- Morals and manners -- Political and
+  social progress -- Inspiration -- The testimony of Jesus -- The Bible and the Church
+  of England -- An oriental book -- Fictitious supremacy.
+title: "The Book of God : In the Light of the Higher Criticism\r\nWith Special Reference\
+  \ to Dean Farrar's New Apology"
+url: http://www.gutenberg.org/ebooks/38092
